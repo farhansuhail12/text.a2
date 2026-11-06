@@ -1,0 +1,5 @@
+https://github.com/farhansuhail12/text.a2.git
+cd text.a2
+git remote -v
+git states
+git log --oner line-5
